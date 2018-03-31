@@ -1,0 +1,39 @@
+﻿#header {
+    text-align: center;
+}
+
+#menu {
+    text-align: center;
+    background-color: darkviolet;
+}
+
+#menu .dropdown-menu {
+     background-color: darkviolet;
+}
+
+#menu .navbar {
+    padding: 0px;
+    max-width:700px;
+    margin:auto;
+}
+
+#menu a {
+    color: #fff;
+}
+
+#menu ul li:hover {
+    background-color: mediumvioletred;
+}
+
+#menu .navbar-brand{
+    color: #fff;
+    padding: 0px 50px 0px 30px;
+}
+
+#menu .active {
+    background-color: mediumvioletred;
+}
+
+#info {
+    background-color: lightgrey;
+}
